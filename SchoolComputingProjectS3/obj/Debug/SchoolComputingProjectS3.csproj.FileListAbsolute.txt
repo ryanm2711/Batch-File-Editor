@@ -1,0 +1,9 @@
+C:\Users\ryan2\source\repos\SchoolComputingProjectS3\SchoolComputingProjectS3\bin\Debug\SchoolComputingProjectS3.exe.config
+C:\Users\ryan2\source\repos\SchoolComputingProjectS3\SchoolComputingProjectS3\bin\Debug\SchoolComputingProjectS3.exe
+C:\Users\ryan2\source\repos\SchoolComputingProjectS3\SchoolComputingProjectS3\bin\Debug\SchoolComputingProjectS3.pdb
+C:\Users\ryan2\source\repos\SchoolComputingProjectS3\SchoolComputingProjectS3\obj\Debug\SchoolComputingProjectS3.BatchFileEditor.resources
+C:\Users\ryan2\source\repos\SchoolComputingProjectS3\SchoolComputingProjectS3\obj\Debug\SchoolComputingProjectS3.Properties.Resources.resources
+C:\Users\ryan2\source\repos\SchoolComputingProjectS3\SchoolComputingProjectS3\obj\Debug\SchoolComputingProjectS3.csproj.GenerateResource.cache
+C:\Users\ryan2\source\repos\SchoolComputingProjectS3\SchoolComputingProjectS3\obj\Debug\SchoolComputingProjectS3.csproj.CoreCompileInputs.cache
+C:\Users\ryan2\source\repos\SchoolComputingProjectS3\SchoolComputingProjectS3\obj\Debug\SchoolComputingProjectS3.exe
+C:\Users\ryan2\source\repos\SchoolComputingProjectS3\SchoolComputingProjectS3\obj\Debug\SchoolComputingProjectS3.pdb
